@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Diivvuu/frontend1/static/css/main.f2266441.css",
-    "main.js": "/Diivvuu/frontend1/static/js/main.2096a47a.js",
-    "static/js/453.f1c44582.chunk.js": "/Diivvuu/frontend1/static/js/453.f1c44582.chunk.js",
-    "index.html": "/Diivvuu/frontend1/index.html",
-    "main.f2266441.css.map": "/Diivvuu/frontend1/static/css/main.f2266441.css.map",
-    "main.2096a47a.js.map": "/Diivvuu/frontend1/static/js/main.2096a47a.js.map",
-    "453.f1c44582.chunk.js.map": "/Diivvuu/frontend1/static/js/453.f1c44582.chunk.js.map"
+    "main.css": "/frontend1/static/css/main.f2266441.css",
+    "main.js": "/frontend1/static/js/main.259e9c56.js",
+    "static/js/453.f1c44582.chunk.js": "/frontend1/static/js/453.f1c44582.chunk.js",
+    "index.html": "/frontend1/index.html",
+    "main.f2266441.css.map": "/frontend1/static/css/main.f2266441.css.map",
+    "main.259e9c56.js.map": "/frontend1/static/js/main.259e9c56.js.map",
+    "453.f1c44582.chunk.js.map": "/frontend1/static/js/453.f1c44582.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2266441.css",
-    "static/js/main.2096a47a.js"
+    "static/js/main.259e9c56.js"
   ]
 }

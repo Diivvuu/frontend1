@@ -10,7 +10,7 @@ import ExcelRandomPoints from './pages/ExcelRandomPoints';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="frontend1">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/field-random-points" element={<FieldRandomPoints />} />
